@@ -12,3 +12,5 @@ my fav subject is computer science
 i live in kolkata
 <br>
 Narendra damodar das modi is the prime minister of India
+<br>
+Hemant soren is chief minister of jharkhand
