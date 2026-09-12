@@ -1,4 +1,6 @@
 # FirstRepo
 Heyy welcome to my first git repository
 <br>
-Author-Talbiya Hassan
+Author-Shiraaz hamdani
+<br>
+I study in techno india university
