@@ -1,0 +1,1 @@
+This file genrates a form to get details of the user.
